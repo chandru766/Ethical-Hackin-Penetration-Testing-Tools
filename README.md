@@ -21,6 +21,10 @@ This repository aims to provide a quick reference guide to the most widely used 
 - [Wireless Network Tools](#-wireless-network-tools)
 - [Transport Layer Security Tools](#-transport-layer-security-tools)
 - [Web Exploitation](#-web-exploitation)
+- [Social Engineering](#-social-engineering)
+- [Password Cracking & Wordlists](#-password-cracking--wordlists)
+- [Cloud Security Tools](#️-cloud-security-tools)
+- [Reverse Engineering & Malware Analysis](#-reverse-engineering--malware-analysis)
 - [References](#-references)
 - [Disclaimer](#-disclaimer)
 - [Contributing](#-contributing)
@@ -133,6 +137,40 @@ This repository aims to provide a quick reference guide to the most widely used 
 | **weevely3** | Weaponized web shell for post-exploitation. |
 | **WhatWeb** | Next-generation website fingerprinter. |
 | **wafw00f** | Web Application Firewall (WAF) detection and fingerprinting. |
+
+## 🎭 Social Engineering
+
+| Tool | Description |
+|---|---|
+| **[SET (Social-Engineer Toolkit)](https://github.com/trustedsec/social-engineer-toolkit)** | Open-source penetration testing framework designed for social engineering. |
+| **[GoPhish](https://getgophish.com/)** | Open-source phishing toolkit designed for businesses and penetration testers. |
+| **[King Phisher](https://github.com/rsmudge/KingPhisher)** | Tool for running multiple simultaneous phishing campaigns. |
+
+## 🔑 Password Cracking & Wordlists
+
+| Tool | Description |
+|---|---|
+| **[Hashcat](https://hashcat.net/hashcat/)** | World's fastest and most advanced password recovery utility. |
+| **[John the Ripper](https://www.openwall.com/john/)** | Fast password cracker, available for many flavors of Unix, Windows, and DOS. |
+| **[Hydra](https://github.com/vanhauser-thc/thc-hydra)** | Very fast network logon cracker which supports many different services. |
+| **[SecLists](https://github.com/danielmiessler/SecLists)** | The penetration tester's companion. Collection of multiple types of lists used during assessments. |
+
+## ☁️ Cloud Security Tools
+
+| Tool | Description |
+|---|---|
+| **[ScoutSuite](https://github.com/nccgroup/ScoutSuite)** | Multi-Cloud Security Auditing tool. |
+| **[Pacu](https://github.com/RhinoSecurityLabs/pacu)** | The AWS exploitation framework, designed for offensive security testing. |
+| **[CloudSploit](https://github.com/aquasecurity/cloudsploit)** | Cloud Security Posture Management (CSPM) tool for AWS, Azure, GCP, and Oracle. |
+
+## 🧠 Reverse Engineering & Malware Analysis
+
+| Tool | Description |
+|---|---|
+| **[Ghidra](https://ghidra-sre.org/)** | Software reverse engineering (SRE) framework maintained by the NSA. |
+| **[IDA Pro](https://hex-rays.com/ida-pro/)** | Interactive disassembler and debugger, widely used for reverse engineering. |
+| **[Radare2](https://rada.re/n/)** | UNIX-like reverse engineering framework and command-line toolset. |
+| **[Volatility](https://www.volatilityfoundation.org/)** | Advanced memory forensics framework. |
 
 ## 📚 References
 
